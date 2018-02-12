@@ -1,0 +1,2 @@
+# g-chrome
+extension killer
